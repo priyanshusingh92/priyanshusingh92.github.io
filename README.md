@@ -76,6 +76,6 @@ I am a frontend engineer with an experience of over 7 years. I have hands on exp
 ---
 
 ### INTERESTS
-Apart from being a web developer, I enjoy watching movies and TV series .
+Apart from being a web developer, I enjoy watching movies and playing badminton .
 
 I enjoy being outdoors, I love travelling to different places and explore different cultures.
