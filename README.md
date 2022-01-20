@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a frontend engineer with an experience of over 5 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on react and typescript for 3 years.
+I am a frontend engineer with an experience of over 7 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on react and angular .
 
 ---
 
@@ -19,31 +19,63 @@ I am a frontend engineer with an experience of over 5 years. I have hands on exp
 ## Experience
 
 ### **SENIOR FRONTEND DEVELOPER**
-### MIRO
+### NAGARRO
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+-Designing and developing robust and scalable front end applications
+-Translated designs and wireframes into high quality code
+-Optimizing components for maximum performance across a vast array of web-capable devices and browsers
+-Building reusable components and front-end libraries for future use
+-Developing and enhancing user-facing features using Angular in accordance with design and consistent with business objectives
+-Implement clean, modern, smooth animations and transitions that provide an excellent user experience.
+-Integrate third-party API's.
+-Write unit and integration tests.
 
 ### **FRONTEND DEVELOPER**
-### Booking.com
+### HCL Technologies
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
+- Developed the latest user-facing features .
+- Designed a modern highly responsive web-based user interface
+- Built reusable components and front-end libraries for future use
+- Translated designs and wireframes into high-quality code
+- Learn and understand user interactions
+- Optimized components for maximum performance across a vast array of web-capable devices and browsers
+- Coordinated with various teams working on distinct layers
 
 ### **SOFTWARE DEVELOPER**
-### NAGARRO PVT, LTD
+### TATA Consultancy Services Pvt Ltd
 
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
+• Development of single page application using angular components using NRWL framework .
+• Working in coordination with client and backend team to integrate front end design .
+• Building a single Page application using RestFUL api by implementing various end points requirement .
+• Working in an Agile environment and working on user stories through created JIRAs
+• Worked on implementation of query builder and data communication across various components in Angular application for generating complex queries .
+• Worked on independent application portals as well as with team.
+• Worked with various technologies like ag-grid , node ,chart.js etc for tabulation and chart representation of data .
+• Api integration with front end by fetching data from hypercube using queries and view names .
+• Regular interaction with client and understanding client requirements closely and suggesting apt UI solutions .
+
+### **SOFTWARE DEVELOPER**
+### Infosys Technologies Ltd
+
+• Planning, Designing and implementing websites Mockups as per client requirements.
+• Work independently or with other UX colleagues and project teams to identify and define interaction and usability requirements for the optimum user experience.
+• Testing with multiple browsers to ensure the best compatibility possible.
+• Designing Flash Banner, Presentation, Animations, Intro pages.
+• Communicated with clients to analyze design requirements.
+• Handle the task of individual client for particular web site.
+• Development of web pages in HTML with Tables and Div tags.
+• Identified project requirements and communicated with Project Manager for project planning .
 
 ---
-
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+### **UTTAR PRADESH TECHNICAL UNIVERSITY**
+### BTech Electronics and Instrumentation (2014- 2018)
+**Percentage** - 71.46%
 
 ---
 
 ### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
+Apart from being a web developer, I enjoy watching movies and TV series .
 
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
+I enjoy being outdoors, I love travelling to different places and explore different cultures.
