@@ -21,14 +21,14 @@ I am a frontend engineer with an experience of over 7 years. I have hands on exp
 ### **SENIOR FRONT END DEVELOPER**
 ### NAGARRO
 
--Designing and developing robust and scalable front end applications
--Translated designs and wireframes into high quality code
--Optimizing components for maximum performance across a vast array of web-capable devices and browsers
--Building reusable components and front-end libraries for future use
--Developing and enhancing user-facing features using Angular in accordance with design and consistent with business objectives
--Implement clean, modern, smooth animations and transitions that provide an excellent user experience.
--Integrate third-party API's.
--Write unit and integration tests.
+- Designing and developing robust and scalable front end applications
+- Translated designs and wireframes into high quality code
+- Optimizing components for maximum performance across a vast array of web-capable devices and browsers
+- Building reusable components and front-end libraries for future use
+- Developing and enhancing user-facing features using Angular in accordance with design and consistent with business objectives
+- Implement clean, modern, smooth animations and transitions that provide an excellent user experience.
+- Integrate third-party API's.
+- Write unit and integration tests.
 
 ### **FRONT END DEVELOPER**
 ### HCL Technologies
@@ -44,27 +44,27 @@ I am a frontend engineer with an experience of over 7 years. I have hands on exp
 ### **FRONT END DEVELOPER**
 ### TATA Consultancy Services Pvt Ltd
 
-• Development of single page application using angular components using NRWL framework .
-• Working in coordination with client and backend team to integrate front end design .
-• Building a single Page application using RestFUL api by implementing various end points requirement .
-• Working in an Agile environment and working on user stories through created JIRAs
-• Worked on implementation of query builder and data communication across various components in Angular application for generating complex queries .
-• Worked on independent application portals as well as with team.
-• Worked with various technologies like ag-grid , node ,chart.js etc for tabulation and chart representation of data .
-• Api integration with front end by fetching data from hypercube using queries and view names .
-• Regular interaction with client and understanding client requirements closely and suggesting apt UI solutions .
+- Development of single page application using angular components using NRWL framework .
+- Working in coordination with client and backend team to integrate front end design .
+- Building a single Page application using RestFUL api by implementing various end points requirement .
+- Working in an Agile environment and working on user stories through created JIRAs
+- Worked on implementation of query builder and data communication across various components in Angular application for generating complex queries .
+- Worked on independent application portals as well as with team.
+- Worked with various technologies like ag-grid , node ,chart.js etc for tabulation and chart representation of data .
+- Api integration with front end by fetching data from hypercube using queries and view names .
+- Regular interaction with client and understanding client requirements closely and suggesting apt UI solutions .
 
 ### **SOFTWARE DEVELOPER**
 ### Infosys Technologies Ltd
 
-• Planning, Designing and implementing websites Mockups as per client requirements.
-• Work independently or with other UX colleagues and project teams to identify and define interaction and usability requirements for the optimum user experience.
-• Testing with multiple browsers to ensure the best compatibility possible.
-• Designing Flash Banner, Presentation, Animations, Intro pages.
-• Communicated with clients to analyze design requirements.
-• Handle the task of individual client for particular web site.
-• Development of web pages in HTML with Tables and Div tags.
-• Identified project requirements and communicated with Project Manager for project planning .
+- Planning, Designing and implementing websites Mockups as per client requirements.
+- Work independently or with other UX colleagues and project teams to identify and define interaction and usability requirements for the optimum user experience.
+- Testing with multiple browsers to ensure the best compatibility possible.
+- Designing Flash Banner, Presentation, Animations, Intro pages.
+- Communicated with clients to analyze design requirements.
+- Handle the task of individual client for particular web site.
+- Development of web pages in HTML with Tables and Div tags.
+- Identified project requirements and communicated with Project Manager for project planning .
 
 ---
 ## Education
