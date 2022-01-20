@@ -3,12 +3,12 @@ logo: "/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Senior Frontend Engineer
   <br><br>
-  <a href="mailto:singhpriyanshu896@gmail.com">singhpriyanshu896@gmail.com</a>
-  <br>
   Contact : +91-8668540424
   <br>
+  <a href="mailto:singhpriyanshu896@gmail.com">singhpriyanshu896@gmail.com</a>
+ <br>
   <a href="https://www.linkedin.com/in/priyanshu1singh/">LinkedIn Profile</a>
   <br>
-  <a href="https://github.com/priyanshusingh92">Gihub</a> 
-  <br>
+  <a href="https://github.com/priyanshusingh92">Github</a> 
+  <br><br>
 theme: jekyll-theme-minimal
