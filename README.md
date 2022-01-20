@@ -18,7 +18,7 @@ I am a frontend engineer with an experience of over 7 years. I have hands on exp
 
 ## Experience
 
-### **SENIOR FRONTEND DEVELOPER**
+### **SENIOR FRONT END DEVELOPER**
 ### NAGARRO
 
 -Designing and developing robust and scalable front end applications
@@ -30,7 +30,7 @@ I am a frontend engineer with an experience of over 7 years. I have hands on exp
 -Integrate third-party API's.
 -Write unit and integration tests.
 
-### **FRONTEND DEVELOPER**
+### **FRONT END DEVELOPER**
 ### HCL Technologies
 
 - Developed the latest user-facing features .
@@ -41,7 +41,7 @@ I am a frontend engineer with an experience of over 7 years. I have hands on exp
 - Optimized components for maximum performance across a vast array of web-capable devices and browsers
 - Coordinated with various teams working on distinct layers
 
-### **SOFTWARE DEVELOPER**
+### **FRONT END DEVELOPER**
 ### TATA Consultancy Services Pvt Ltd
 
 • Development of single page application using angular components using NRWL framework .
